@@ -28,3 +28,6 @@
 
 1. Inicia la aplicación: `npm start`
 2. Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
+
+## Live
+se encuentra desplegado en netlify [Prueba Pixabay](https://sparkly-panda-0e982e.netlify.app)
